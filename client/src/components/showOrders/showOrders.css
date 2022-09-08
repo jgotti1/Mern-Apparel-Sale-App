@@ -1,0 +1,39 @@
+.delete_button {
+  color: red;
+}
+.top_row {
+  background: rgb(226, 226, 232);
+  width: 100%;
+}
+h3 {
+  font-style: italic;
+  padding: 0;
+  margin: 0;
+}
+.show_orders {
+  max-height: 800px;
+}
+.adminFilters {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+button {
+  width: 145px;
+  height: 30px;
+  border: none;
+  border-radius: 8px;
+}
+.adimnFilters,
+button:hover {
+  width: 147px;
+  height: 32px;
+  border: none;
+  border-radius: 8px;
+  background-color: rgb(186, 180, 180);
+  color: white;
+  cursor: pointer;
+}
+h5 {
+  color: red;
+}
