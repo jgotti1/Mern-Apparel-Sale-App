@@ -88,7 +88,7 @@ export default function ShowOrdersAdmin() {
       const name = json.name;
       const appareltype = json.appareltype;
       const size = json.size;
-      const payment = json.ispaid;
+      const payment = json.payment;
       const ispaid = "YES";
       const change = { name, appareltype, size, payment, ispaid };
       console.log(change);
@@ -119,7 +119,7 @@ export default function ShowOrdersAdmin() {
       const name = json.name;
       const appareltype = json.appareltype;
       const size = json.size;
-      const payment = json.ispaid;
+      const payment = json.payment;
       const ispaid = "NO";
       const change = { name, appareltype, size, payment, ispaid };
       console.log(change);

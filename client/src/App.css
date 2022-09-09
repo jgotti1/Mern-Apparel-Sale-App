@@ -3,7 +3,10 @@
 }
 
 .heading {
-  color: rgb(47, 47, 47);
+  color: rgb(57, 53, 63);
+  font-weight: bolder;
+  text-shadow: 1px 1px rgb(118, 118, 118);
+  
 }
 /* auth forms */
 form.signup,

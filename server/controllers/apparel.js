@@ -18,7 +18,7 @@ export const getOne = async (req, res) => {
   }
   res.status(200).json(apparel);
 };
-
+// m
 export const createApparel = async (req, res) => {
   const apparel = req.body;
   const newApparel = new ApparelData(apparel);

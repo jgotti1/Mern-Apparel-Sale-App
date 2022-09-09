@@ -74,10 +74,12 @@ function CreateOrderForm() {
               }}
             >
               <option value={""}>**apparel type**</option>
-              <option value={"Red Hoodie"}>Red Hoodie</option>
-              <option value={"Mens Tee"}>Mens Tee</option>
-              <option value={"Womens Tee"}>Womens Tee</option>
-              <option value={"Womens Crop"}>Womens Crop</option>
+              <option value={"Grey Hoodie"}>Grey Hoodie</option>
+              <option value={"Baseball Tee"}>Baseball Tee</option>
+              <option value={"Joggers"}>Joggers</option>
+              <option value={"Orange Hoodie"}>Orange Hoodie</option>
+              <option value={"Black Tank"}>Black Tank</option>
+              <option value={"Yellow Hoodie"}>Yellow Hoodie</option>
             </select>
           </FormControl>
         </Box>
